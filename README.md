@@ -1,7 +1,7 @@
 # Flappy-Bird-Game
 
 
-Usage
+####Usage
 
 Virtual Studio Code IDE and the pygame module. Pygame is a library that is used in creating games in Python. It has four important things.
 
@@ -11,11 +11,11 @@ Virtual Studio Code IDE and the pygame module. Pygame is a library that is used 
 4.Sound
 
 
-License
+####License
 Distributed under the MIT License. See LICENSE for more information.
 
 
-Contact
+####Contact
 Your Name - Shubham - srivastavashubham055@gmail.com
 
 Project Link: https://github.com/ushubha-hub/Flappy-Bird-Game
